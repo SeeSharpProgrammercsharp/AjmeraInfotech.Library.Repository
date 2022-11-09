@@ -6,3 +6,4 @@ IDE - Visual Studio 2022
 Unit Test Cases - MS Unit Test Framework
 Dev Testing - Swagger and Postman
 Authentication - No authentication 
+Validation - Fluent Validation 11.2.2
