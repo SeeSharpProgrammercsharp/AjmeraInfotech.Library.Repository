@@ -9,3 +9,4 @@ Authentication - No authentication
 Validation - Fluent Validation 11.2.2
 Migration scripts to create tables - add-migration intialmigration and Update-Database
 Post Man endpoints - Get - https://localhost:44371/api/v1/book, Get  - https://localhost:44371/api/v1/book/Id/{Guid}, Post - https://localhost:44371/api/v1/book, Put - https://localhost:44371/api/v1/book
+SQL Server -2019
